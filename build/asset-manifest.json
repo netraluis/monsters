@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https//netraluis.github.io/monsters/static/css/main.9fdb309c.chunk.css",
-    "main.js": "https//netraluis.github.io/monsters/static/js/main.69aa0d7b.chunk.js",
-    "main.js.map": "https//netraluis.github.io/monsters/static/js/main.69aa0d7b.chunk.js.map",
-    "runtime-main.js": "https//netraluis.github.io/monsters/static/js/runtime-main.c3920b1d.js",
-    "runtime-main.js.map": "https//netraluis.github.io/monsters/static/js/runtime-main.c3920b1d.js.map",
-    "static/js/2.1f3314c8.chunk.js": "https//netraluis.github.io/monsters/static/js/2.1f3314c8.chunk.js",
-    "static/js/2.1f3314c8.chunk.js.map": "https//netraluis.github.io/monsters/static/js/2.1f3314c8.chunk.js.map",
-    "index.html": "https//netraluis.github.io/monsters/index.html",
-    "precache-manifest.8926d7d8c656376c9b74824b286218f9.js": "https//netraluis.github.io/monsters/precache-manifest.8926d7d8c656376c9b74824b286218f9.js",
-    "service-worker.js": "https//netraluis.github.io/monsters/service-worker.js",
-    "static/css/main.9fdb309c.chunk.css.map": "https//netraluis.github.io/monsters/static/css/main.9fdb309c.chunk.css.map",
-    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "https//netraluis.github.io/monsters/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
+    "main.css": "/monsters/static/css/main.9fdb309c.chunk.css",
+    "main.js": "/monsters/static/js/main.634ce076.chunk.js",
+    "main.js.map": "/monsters/static/js/main.634ce076.chunk.js.map",
+    "runtime-main.js": "/monsters/static/js/runtime-main.9b332845.js",
+    "runtime-main.js.map": "/monsters/static/js/runtime-main.9b332845.js.map",
+    "static/js/2.1f3314c8.chunk.js": "/monsters/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "/monsters/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "/monsters/index.html",
+    "precache-manifest.a88720e897dfbe33ab0ef375bdad0322.js": "/monsters/precache-manifest.a88720e897dfbe33ab0ef375bdad0322.js",
+    "service-worker.js": "/monsters/service-worker.js",
+    "static/css/main.9fdb309c.chunk.css.map": "/monsters/static/css/main.9fdb309c.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "/monsters/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3920b1d.js",
+    "static/js/runtime-main.9b332845.js",
     "static/js/2.1f3314c8.chunk.js",
     "static/css/main.9fdb309c.chunk.css",
-    "static/js/main.69aa0d7b.chunk.js"
+    "static/js/main.634ce076.chunk.js"
   ]
 }
